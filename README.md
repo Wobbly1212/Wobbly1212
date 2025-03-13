@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI explainability and transparency**
 
-- 👯 I’m looking to collaborate on **Memory Spark IOS application**
+- 💻 I’m looking to collaborate on **Memory Spark IOS application**
 
 - 📫 How to reach me **m.darabi@studenti.unina.it**
 
