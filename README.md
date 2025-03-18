@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossein Darabi</h1>
-<h3 align="center">I’m a data scientist with hands-on experience in machine learning, AI, and data stream classification, specializing in managing concept drift. I sharpened my skills in big data analytics and predictive modeling at Apple Academy and during a Data Analytics internship. I’m passionate about using AI to solve real-world challenges in healthcare, finance, and tech. I blend innovative data science with a human-centered approach to drive meaningful, transformative projects.</h3>
+<h3 align="center">Data scientist specialized in ML, AI, and data stream classification (managing concept drift) who blends big data analytics and predictive modeling to tackle real-world challenges in healthcare, finance, and tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wobbly1212&label=Profile%20views&color=0e75b6&style=flat" alt="wobbly1212" /> </p>
 
