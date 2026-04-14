@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hossein-darabi-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://diako-darabi-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hossein-darabi-618349279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:innovator.h.darabi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -76,7 +76,7 @@ Currently pursuing my **M.Sc. in Data Science** with a research focus on supervi
 </table>
 
 <p align="center">
-  <a href="https://hossein-darabi-website.vercel.app"><strong>View all projects on my portfolio &rarr;</strong></a>
+  <a href="https://diako-darabi-website.vercel.app"><strong>View all projects on my portfolio &rarr;</strong></a>
 </p>
 
 ---
