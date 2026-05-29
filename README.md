@@ -15,6 +15,8 @@
 
 ### About
 
+I go by **Diako** professionally; my legal name is **Mohammadhossein Darabi**.
+
 I work on machine learning, predictive modeling, and data-driven systems — and build tools to deploy them. I'm interested in how data can answer hard questions and where AI meets real-world problems.
 
 Currently pursuing my **M.Sc. in Data Science** with a research focus on supervised classification in data streams and managing concept drift. Graduate of the **Apple Developer Academy** with 7+ years in math and data education.
