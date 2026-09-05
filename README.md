@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://diakodarabi.org/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hossein-darabi-618349279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/diako-darabi-618349279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:innovator.h.darabi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -41,44 +41,40 @@ Currently pursuing my **M.Sc. in Data Science** with a research focus on supervi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Wobbly1212/CNN_Skin-Cancer-Classifier">CNN Skin Cancer Classifier</a></h4>
-      <p>Deep learning pipeline classifying dermatoscopic images into 7 skin lesion categories using CNNs on the HAM10000 dataset. Achieved 77.7% validation accuracy.</p>
-      <p><code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>CNN</code> <code>Medical AI</code></p>
+      <h4><a href="https://github.com/Wobbly1212/leaf-doctor">🌿 Leaf Doctor — Plant Disease Detection</a></h4>
+      <p>M.Sc. thesis project: YOLOv8 plant-disease detector with a focus on <em>honest</em> predictions. A Streamlit "trust meter" surfaces model uncertainty to users — built from real per-class accuracy and a look-alike differential that flags visually similar diseases the model can confuse.</p>
+      <p><code>Python</code> <code>YOLOv8</code> <code>PyTorch</code> <code>Streamlit</code> <code>Computer Vision</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Wobbly1212/Lake-TimeSeries-Forecasting">Lake Time-Series Forecasting</a></h4>
+      <p>End-to-end forecasting of lake flow rate and water level. Classical statistical models (ARIMA, SARIMAX, VAR) benchmarked head-to-head against an LSTM to compare interpretability and accuracy trade-offs.</p>
+      <p><code>Python</code> <code>ARIMA</code> <code>SARIMAX</code> <code>VAR</code> <code>LSTM</code> <code>Time Series</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Wobbly1212/Parkinsons-Voice-Detection">Parkinson's Voice Detection</a></h4>
+      <p>Early detection of Parkinson's disease from voice features using interpretable models (logistic regression, decision trees) with SMOTE to handle class imbalance — prioritising explainability for a healthcare setting.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>SMOTE</code> <code>Interpretable ML</code> <code>Healthcare</code></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Wobbly1212/twitter-sentiment-analysis">Twitter Sentiment Analysis at Scale</a></h4>
-      <p>Large-scale sentiment classification of 1.6M tweets using Apache Spark and distributed ML on Databricks. Logistic Regression achieved 77.96% accuracy.</p>
-      <p><code>PySpark</code> <code>NLP</code> <code>Databricks</code> <code>Big Data</code> <code>MLlib</code></p>
+      <p>Large-scale sentiment classification of 1.6M tweets using Apache Spark and distributed ML on Databricks, with a PySpark MLlib + TF-IDF pipeline built for big-data throughput.</p>
+      <p><code>PySpark</code> <code>Databricks</code> <code>Big Data</code> <code>NLP</code> <code>MLlib</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Wobbly1212/Novelties-ios-application">Novelties — Mindfulness iOS App</a></h4>
-      <p>iOS app that disrupts automatic thinking through daily micro-activities, promoting mindfulness and present-moment awareness through sensory prompts.</p>
-      <p><code>Swift</code> <code>SwiftUI</code> <code>iOS</code> <code>UX Design</code> <code>WidgetKit</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Wobbly1212/ficto-creativity-IOS_app">Ficto — Creative Writing App</a></h4>
-      <p>Galaxy-themed iOS app built at Apple Developer Academy to help writers overcome creative block through timed challenges and 100+ research-backed prompts.</p>
-      <p><code>Swift</code> <code>SwiftUI</code> <code>iOS</code> <code>Apple Academy</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Wobbly1212/Ecommerce-database-design">E-Commerce Database Architecture</a></h4>
-      <p>Complete relational database design for a full e-commerce platform — ER modeling, normalization to 3NF, and SQL query suite.</p>
-      <p><code>SQL</code> <code>Database Design</code> <code>ER Modeling</code> <code>Normalization</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/Wobbly1212/statistical-tests-experimental-design-R">Statistical Testing Toolkit in R</a></h4>
+      <h4><a href="https://github.com/Wobbly1212/statistical-tests-experimental-design-R">Statistical Testing & Experimental Design in R</a></h4>
       <p>Comprehensive R toolkit for experimental data analysis — parametric and non-parametric tests, ANOVA, post-hoc analysis, and assumption checking.</p>
-      <p><code>R</code> <code>Statistics</code> <code>ANOVA</code> <code>Hypothesis Testing</code></p>
+      <p><code>R</code> <code>Statistics</code> <code>ANOVA</code> <code>Experimental Design</code> <code>Hypothesis Testing</code></p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://diako-darabi-website.vercel.app"><strong>View all projects on my portfolio &rarr;</strong></a>
+  <a href="https://diakodarabi.org/"><strong>View all projects on my portfolio &rarr;</strong></a>
 </p>
 
 ---
@@ -127,8 +123,4 @@ Currently pursuing my **M.Sc. in Data Science** with a research focus on supervi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wobbly1212&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wobbly1212&layout=compact&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wobbly1212&hide_border=true" alt="GitHub Streak" />
 </p>
